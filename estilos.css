@@ -1,0 +1,16 @@
+body, html {
+    background-color: #484444;
+    align-items: center;
+}
+
+.container {
+    text-align:center;
+}
+.txtparrafo{text-align: justify;
+    text-align: center;
+background-color: white;}
+.txttitulo{
+    background-color: white;
+    padding: 10px;
+    margin: 0;
+}
